@@ -30,3 +30,6 @@ Let's GO
 8. Always be learning and seeking feedback from colleagues and mentors to improve your skills and knowledge.       
 9. Keep a positive attitude and remain open to new ideas and challenges.        
     10. Remember that patience and perseverance are key to success in any programming project, so don’t get discouraged easily.
+
+# 2023-11-20
+- "Keep it simple, stupid!"
