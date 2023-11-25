@@ -47,3 +47,9 @@ Next, always plan beforehand. When starting a new project, create a detailed pla
 
 # 2023-11-24
 - "Keep it simple, stupid!"
+
+# 2023-11-25
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest industry trends, tools, and programming languages.
+
+To be successful in the programming field, you should also have a deep understanding of the principles of computer science, such as data structures, algorithms, software engineering, etc. These principles will help you create efficient and scalable solutions to real-world problems. Additionally, learning to collaborate with others and communicate effectively is a valuable skill in any profession, but especially in programming. After all, programming is often a team effort, requiring collaboration between developers, designers, product managers, testers, et al. to bring a product to life. 
+ 因此，今天的智慧是成为一名终身学习者，不断更新自己的知识和技能，并深入了解计算机科学的基本原则。同时，学会与他人合作和有效沟通也是至关重要的。这样，你才能在编程领域取得成功。
