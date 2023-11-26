@@ -53,3 +53,8 @@ Next, always plan beforehand. When starting a new project, create a detailed pla
 
 To be successful in the programming field, you should also have a deep understanding of the principles of computer science, such as data structures, algorithms, software engineering, etc. These principles will help you create efficient and scalable solutions to real-world problems. Additionally, learning to collaborate with others and communicate effectively is a valuable skill in any profession, but especially in programming. After all, programming is often a team effort, requiring collaboration between developers, designers, product managers, testers, et al. to bring a product to life. 
  因此，今天的智慧是成为一名终身学习者，不断更新自己的知识和技能，并深入了解计算机科学的基本原则。同时，学会与他人合作和有效沟通也是至关重要的。这样，你才能在编程领域取得成功。
+
+# 2023-11-26
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge base. This involves staying up-to-date with new technologies, programming languages, and best practices. By doing so, you will be able to adapt to the ever-changing landscape of the tech industry and become a valuable asset to your team or organization.
+
+To achieve this, make it a habit to read blogs, subscribe to newsletters, attend conferences, join online communities, or take courses to stay informed. Additionally, always be open to trying new things and pushing your boundaries. The more you learn and practice, the better you'll become as a programmer. Remember that every mistake is an opportunity to learn, so don't be afraid to make them. Finally, never stop asking questions and seeking help from others, as this is how you can truly master your craft.
