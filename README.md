@@ -81,3 +81,9 @@ By embracing continuous learning, you will become a more skilled and valuable pr
 
 # 2023-12-03
 - "Keep it simple, stupid!"
+
+# 2023-12-04
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Next, use a scheduling tool or plan to allocate time to each task. Allocate time based on their importance and complexity. Make sure to leave some buffer time for unexpected tasks or interruptions. Planning your day or week in this manner will ensure you have enough time allocated to complete all tasks. 
+ 最终，保持组织。使用版本控制系统，如Git，来管理你的代码。创建清晰的文件夹结构，以便于查找和组织你的文件。定期备份你的工作，以防数据丢失。通过保持组织和遵循这些最佳实践，你将能够更有效地完成你的编程任务。
