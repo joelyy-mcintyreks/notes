@@ -172,3 +172,6 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable pieces, then allocate time for each piece. Having a clear plan will keep you on track and prevent you from getting lost in the code. 
  （105个字符）
+
+# 2023-12-21
+- Today's programming wisdom is to embrace the principle of simplicity. Always strive to write clean, concise, and readable code. Remember that code is read more often than it is written, so prioritize clarity and maintainability over cleverness or optimization. Refactor early and often, and avoid premature optimization. Also, understand that debugging is an integral part of programming. Don't be afraid to make mistakes, but be prepared to learn from them. Lastly, keep learning and adapting as technology evolves, and always strive to improve your skills and knowledge as a programmer.
